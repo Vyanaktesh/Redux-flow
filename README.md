@@ -40,4 +40,9 @@ file. Variables are must be in Upper_case and value is same as variable name. Va
   [UPDATE_USERNAME]: updateUsername,
     [UPDATE_PASSWORD]: updatePassword,
     [LOGIN_CLICKED]: loginClicked,
-- CreatPingPongButton into components/Home folder.
+- Creat Login button into components/Home folder.
+- 
+Create authSelector.js files in selectors.
+
+
+![Screenshot 2023-02-10 165715](https://user-images.githubusercontent.com/68580579/218241611-4652621f-4d4a-438f-a4c0-4b6070cc410a.png)
